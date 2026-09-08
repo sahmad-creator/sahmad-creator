@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shah Mohammad Ahmad Farooqui 👋
+# Hi, I'm Shah Mohammad Ahmad  👋
 
 **BCA Student · Web Developer · Digital Marketer**
 
